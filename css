@@ -1,0 +1,16 @@
+body{
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(254, 114, 114);
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    padding: 30px;
+    
+
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+    padding: 50px;
+    padding-bottom: 200px;
+}
